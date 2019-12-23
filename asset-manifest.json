@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProyectoAimoGithub/static/css/main.b6641775.chunk.css",
+    "main.js": "/ProyectoAimoGithub/static/js/main.d21e0daa.chunk.js",
+    "main.js.map": "/ProyectoAimoGithub/static/js/main.d21e0daa.chunk.js.map",
+    "runtime-main.js": "/ProyectoAimoGithub/static/js/runtime-main.358c0d62.js",
+    "runtime-main.js.map": "/ProyectoAimoGithub/static/js/runtime-main.358c0d62.js.map",
+    "static/js/2.d8ec38fb.chunk.js": "/ProyectoAimoGithub/static/js/2.d8ec38fb.chunk.js",
+    "static/js/2.d8ec38fb.chunk.js.map": "/ProyectoAimoGithub/static/js/2.d8ec38fb.chunk.js.map",
+    "index.html": "/ProyectoAimoGithub/index.html",
+    "precache-manifest.1cb1cfa3584518f06981721ec6b2b726.js": "/ProyectoAimoGithub/precache-manifest.1cb1cfa3584518f06981721ec6b2b726.js",
+    "service-worker.js": "/ProyectoAimoGithub/service-worker.js",
+    "static/css/main.b6641775.chunk.css.map": "/ProyectoAimoGithub/static/css/main.b6641775.chunk.css.map",
+    "static/js/2.d8ec38fb.chunk.js.LICENSE": "/ProyectoAimoGithub/static/js/2.d8ec38fb.chunk.js.LICENSE",
+    "static/media/logoGithub.png": "/ProyectoAimoGithub/static/media/logoGithub.0ba2aa20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358c0d62.js",
+    "static/js/2.d8ec38fb.chunk.js",
+    "static/css/main.b6641775.chunk.css",
+    "static/js/main.d21e0daa.chunk.js"
+  ]
+}
