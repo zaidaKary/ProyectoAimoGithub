@@ -2,6 +2,26 @@
 
 The goal is to build a front-end application that uses the [GitHub REST API](https://developer.github.com/v3/) to search users anddisplay their profile information, just like the actual GitHub web interface.
 
+## Tools used
+
+  - React
+  - JavaScript
+  - HTML semántico
+  - CSS flexbox
+  - Fetch
+  - GitHub REST API
+
+## Install local:
+
+  ```
+  git clone https://github.com/zaidaKary/ProyectoAimoGithub.git
+  cd ProyectoAimoGithub/
+  npm install
+  npm start
+  ```
+
+## Link Project: [http://my-app-260194.herokuapp.com/](http://my-app-260194.herokuapp.com/)
+
 ## Final project image
 
 ### Desktop
@@ -32,12 +52,3 @@ view two:
 Error view:
 
 ![image](https://user-images.githubusercontent.com/42952494/71333264-6bb14580-2507-11ea-9dee-a663b92f68a2.png)
-
-### Tools used
-
-  - React
-  - JavaScript
-  - HTML semántico
-  - CSS flexbox
-  - Fetch
-  - GitHub REST API
